@@ -1,0 +1,12 @@
+LatestOrderTimestampIntent Ask order bank when it was last updated
+OrderDetailsIntent Ask order bank about order {orderId}
+OrderDetailsIntent Ask order bank about {orderId}
+TotalOrdersIntent How many orders in the order bank
+TotalOrdersIntent What is the total number of orders in the order bank
+TotalOrdersIntent Ask order bank for the order total
+TotalOrdersIntent Ask order bank for the total number of orders
+TotalOrdersOnHoldIntent Ask order bank how many orders are on hold
+TotalOrdersOnHoldIntent Ask order bank how many orders are on gatekeeper hold
+TotalOrdersOnHoldIntent Ask order bank for gate keeper hold total
+TotalOrdersOnHoldIntent Ask order bank for on hold total
+TotalOrdersOnHoldIntent Ask order bank for number of orders on hold

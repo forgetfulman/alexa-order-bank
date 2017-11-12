@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "LatestOrderTimestampIntent",
+      "slots": []
+    },
+    {
+      "name": "OrderDetailsIntent",
+      "slots": [
+        {
+          "name": "orderId",
+          "type": "AMAZON.NUMBER",
+          "samples": [
+            "the order number is {orderId} "
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TotalOrdersIntent",
+      "slots": []
+    },
+    {
+      "name": "TotalOrdersOnHoldIntent",
+      "slots": []
+    }
+  ]
+}

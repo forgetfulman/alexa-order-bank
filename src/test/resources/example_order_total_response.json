@@ -1,0 +1,1 @@
+{"_shards":{"total":10,"successful":5,"failed":0},"_all":{"primaries":{"docs":{"count":20001,"deleted":6384}},"total":{"docs":{"count":20001,"deleted":6384}}},"indices":{"order-alexa":{"primaries":{"docs":{"count":20001,"deleted":6384}},"total":{"docs":{"count":20001,"deleted":6384}}}}}
